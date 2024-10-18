@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to the **Seroanalytics** GitHub organization! A collection of tools to make inference of serological data a bit easier 🌍🦠
+Welcome to the **seroanalytics** GitHub organization! A collection of tools to make inference of serological data a bit easier 🦠🩸
 
 <!--
 
